@@ -19,7 +19,7 @@ pip install Pillow
 
 Cukup mudah untuk menjalankan program ini. Dapat memencet tombol diatas kanan berbentuk Segitiga mengarah Kanan (*Run Code*). Namun, jika tidak bisa, kalian dapat menggunakan *terminal* dan menggunakan *line of code* sebagai berikut.
 
-py QueensLinedInExhaustiveSearch.py
+py queensMpruy.py
 
 
 ## Penulis: Stanislaus Ardy Bramantyo - 18223058
